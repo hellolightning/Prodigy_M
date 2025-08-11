@@ -1,2 +1,0 @@
-# Fix syntax highlighting for devcontainer files
-.devcontainer/*.python linguist-language=PYTHON-with-Comments
